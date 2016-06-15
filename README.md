@@ -2,14 +2,14 @@
 
 These are all the public key fingerprints for stuff in the LUG infrastructure.
 
-short.csc.ncsu.edu SSH key fingerprints:
+`short.csc.ncsu.edu` SSH key fingerprints:
 
     SHA256:T/CifWzAffdY0kBsNlR0b3i5AvhTY3ddQFJ9BsxzrHg (RSA)
     SHA256:AfwwkC5Fdj8HA15YUA9JRF92Tb+Hqri3SCdvIeY2SG8 (DSA)
     SHA256:KSom7CofsxIbkxxDFePfsc6FXA77pU7B7MyPwCxIQ4s (ED25519)
     SHA256:8n7GQvE1v9JMCexmhjZinPCV6Go0bX7gguLsUORNg5I (ECDSA)
 
-char.csc.ncsu.edu SSH key fingerprints:
+`char.csc.ncsu.edu` SSH key fingerprints:
 
     SHA256:Jl9/RVDMlBeumEQWWra5FHRX0TgGp/lNtrzysWZqxWo (DSA)
     SHA256:ACFvts8yucHfqDsneKaqJhiCk4L6/tmp5T8OQXaXguQ (ECDSA)
