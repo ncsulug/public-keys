@@ -3,7 +3,7 @@ LUG Infrastructure Public Key Fingerprints
 
 Public key fingerprints for LUG servers.
 
-Last modified 9/11/2016.
+Last modified 12/20/2016.
 
 SSH
 ---
